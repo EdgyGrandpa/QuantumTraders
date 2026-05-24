@@ -1,0 +1,4 @@
+fastapi-poe
+openai
+python-dotenv
+uvicorn
