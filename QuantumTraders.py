@@ -1,4 +1,3 @@
-cat > QuantumTraders.py << 'PY'
 import os
 import re
 import json
