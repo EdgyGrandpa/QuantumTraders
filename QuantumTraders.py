@@ -148,4 +148,3 @@ if not bot_name or not access_key:
 
 bot = QuantumTradersBot()
 app = fp.make_app(bot, access_key=access_key, bot_name=bot_name)
-PY
